@@ -1,0 +1,1 @@
+# akips-anisble-inventory
