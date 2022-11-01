@@ -1,0 +1,7 @@
+---
+
+plugin: akips_inventory_plugin
+plugin_type: inventory
+akips_username: <username>
+akips_password: <password>
+akips_host: <hostname>
